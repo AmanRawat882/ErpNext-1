@@ -7,7 +7,7 @@ def get_data():
 			"label": _("Employee and Attendance"),
 			"items": [
 				{
-					
+					"type": "doctype",
 					"name": "Employee",
 				},
 				{
